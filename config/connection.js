@@ -13,5 +13,5 @@ if (process.env.JAWSDB_URL) {
   });
 };
 
-connection.connect();git add .JAWSDB_URL
+connection.connect();
 module.exports = connection;
